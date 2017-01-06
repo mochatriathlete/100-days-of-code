@@ -21,3 +21,14 @@ Current location and current temperature displays fine - working on weather icon
 
 **Link to work:**
 https://codepen.io/mochatriathlete/pen/yeWWaP
+
+Day 3: January 5, 2017
+
+**Today's Progress**:
+Finishing up FCC Weather App
+
+**Thoughts:**
+Displaying current weather and icons implementing F/C conversion toggle
+
+**Link to work:**
+https://codepen.io/mochatriathlete/pen/yeWWaP
