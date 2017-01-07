@@ -32,3 +32,14 @@ Displaying current weather and icons implementing F/C conversion toggle
 
 **Link to work:**
 https://codepen.io/mochatriathlete/pen/yeWWaP
+
+Day 4: January 6, 2017
+
+**Today's Progress**:
+Completed FCC Weather App - starting Build a Wikipedia Viewer
+
+**Thoughts:**
+On to the next one
+
+**Link to work:**
+https://codepen.io/mochatriathlete/pen/yeWWaP
