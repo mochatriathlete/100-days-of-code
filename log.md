@@ -42,4 +42,15 @@ Completed FCC Weather App - starting Build a Wikipedia Viewer
 On to the next one
 
 **Link to work:**
-https://codepen.io/mochatriathlete/pen/yeWWaP
+http://codepen.io/mochatriathlete/pen/yeWWaP
+
+Day 5: January 7, 2017
+
+**Today's Progress**:
+Starting Build a Wikipedia Viewer - Working on api call and UI
+
+**Thoughts:**
+Brain drain pushing through the slump
+
+**Link to work:**
+http://codepen.io/mochatriathlete/pen/JEdmwx
