@@ -54,3 +54,14 @@ Brain drain pushing through the slump
 
 **Link to work:**
 http://codepen.io/mochatriathlete/pen/JEdmwx
+
+DAY 6: January 9, 2017
+
+**Today's Progress**
+Worked on Wikipedia Viewer - random button working & working on configuring url for wiki search
+
+**Thoughts:**
+Great the random part works
+
+**Link to work:**
+http://codepen.io/mochatriathlete/pen/JEdmwx
