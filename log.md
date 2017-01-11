@@ -65,3 +65,14 @@ Great the random part works
 
 **Link to work:**
 http://codepen.io/mochatriathlete/pen/JEdmwx
+
+DAY 6: January 10, 2017
+
+**Today's Progress**
+Worked on Wikipedia Viewer - it works!!
+
+**Thoughts:**
+Getting the UI just right can be simultaneously fun and frustrating
+
+**Link to work:**
+http://codepen.io/mochatriathlete/pen/JEdmwx
