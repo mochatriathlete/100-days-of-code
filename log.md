@@ -76,3 +76,14 @@ Getting the UI just right can be simultaneously fun and frustrating
 
 **Link to work:**
 http://codepen.io/mochatriathlete/pen/JEdmwx
+
+DAY 8: January 11, 2017
+
+**Today's Progress:**
+Completed Wiki Viewer
+
+**Thoughts:**
+Understand that API was more challenging than I expected.
+
+**Link to work:**
+http://codepen.io/mochatriathlete/pen/JEdmwx
