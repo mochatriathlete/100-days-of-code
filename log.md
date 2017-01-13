@@ -87,3 +87,14 @@ Understand that API was more challenging than I expected.
 
 **Link to work:**
 http://codepen.io/mochatriathlete/pen/JEdmwx
+
+DAY 9: January 12, 2017
+
+**Today's Progress:**
+Began working on twitchtv json api
+
+**Thoughts:**
+Difficulty getting psyched reading through the twitchtv api
+
+**Link to work:**
+http://codepen.io/mochatriathlete/pen/WRwOww
