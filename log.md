@@ -88,7 +88,7 @@ Understand that API was more challenging than I expected.
 **Link to work:**
 http://codepen.io/mochatriathlete/pen/JEdmwx
 
-DAY 9: January 12, 2017
+ 9: January 12, 2017
 
 **Today's Progress:**
 Began working on twitchtv json api
@@ -98,3 +98,15 @@ Difficulty getting psyched reading through the twitchtv api
 
 **Link to work:**
 http://codepen.io/mochatriathlete/pen/WRwOww
+
+DAY 10: January 13, 2017
+
+**Today's Progress:**
+Completed FCC exercise about sum of array given two integers
+
+**Thoughts:**
+i had the solution initially but couldn't pick up fast enough on the misspelled var. took longer finish than necessary the joys of debugging
+
+**Link to work:**
+
+
