@@ -88,7 +88,7 @@ Understand that API was more challenging than I expected.
 **Link to work:**
 http://codepen.io/mochatriathlete/pen/JEdmwx
 
- 9: January 12, 2017
+ Day 9: January 12, 2017
 
 **Today's Progress:**
 Began working on twitchtv json api
@@ -109,4 +109,12 @@ i had the solution initially but couldn't pick up fast enough on the misspelled 
 
 **Link to work:**
 
+DAY 11: January 14, 2017
 
+**Today's Progress:**
+Working on through Javascript - Understanding the Weird Parts 
+
+**Thoughts:**
+This course helps fill in the dots in some of my weak areas.
+
+**Link to work:**
