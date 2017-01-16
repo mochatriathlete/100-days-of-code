@@ -119,7 +119,7 @@ This course helps fill in the dots in some of my weak areas.
 
 **Link to work:**
 
-DAY 12: January 14, 2017
+DAY 12: January 15, 2017
 
 **Today's Progress:**
 Still working on Diff of Two Arrays and Code Wars javascript katas
