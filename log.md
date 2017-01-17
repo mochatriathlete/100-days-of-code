@@ -128,3 +128,13 @@ Still working on Diff of Two Arrays and Code Wars javascript katas
 Enjoying the challenges of the algorithms
 
 **Link to work:**
+
+DAY 13: January 16, 2017
+
+**Today's Progress:**
+RGB to Hex Codewars kata and working on FCC Twitchtv
+
+**Thoughts:**
+Love getting the the coding zone some days are easier than others
+
+**Link to work:**
