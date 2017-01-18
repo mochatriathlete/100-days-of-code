@@ -138,3 +138,13 @@ RGB to Hex Codewars kata and working on FCC Twitchtv
 Love getting the the coding zone some days are easier than others
 
 **Link to work:**
+
+DAY 14: January 17, 2017
+
+**Today's Progress:**
+Codecademy Project Address Book
+
+**Thoughts:**
+Frustrating had the correct solution but comcast wigged out on me and had to reset...aghhhh
+
+**Link to work:**
