@@ -148,3 +148,13 @@ Codecademy Project Address Book
 Frustrating had the correct solution but comcast wigged out on me and had to reset...aghhhh
 
 **Link to work:**
+
+DAY 15: January 18, 2017
+
+**Today's Progress:**
+Completed Codecademy Javascript
+
+**Thoughts:**
+Ready to get back to FCC project 
+
+**Link to work:**
