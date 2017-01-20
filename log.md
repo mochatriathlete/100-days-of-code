@@ -158,3 +158,13 @@ Completed Codecademy Javascript
 Ready to get back to FCC project 
 
 **Link to work:**
+
+DAY 16: January 19, 2017
+
+**Today's Progress:** 
+Completing week for of Coursera Interactivity with Javascript course
+
+**Thoughts:** 
+Getting into a coding rhythm
+
+Link to work:
