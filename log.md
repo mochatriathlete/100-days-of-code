@@ -168,3 +168,13 @@ Completing week for of Coursera Interactivity with Javascript course
 Getting into a coding rhythm
 
 Link to work:
+
+DAY 17: January 20, 2017
+
+**Today's Progress:** 
+Javascript 30 Day 1 
+
+**Thoughts:** 
+Feeling more condident in my understanding the why behind javascript
+
+Link to work:
