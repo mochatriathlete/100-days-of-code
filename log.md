@@ -178,3 +178,13 @@ Javascript 30 Day 1
 Feeling more condident in my understanding the why behind javascript
 
 Link to work:
+
+DAY 18: January 21, 2017
+
+**Today's Progress:** 
+Hackerrank Algorithms Implementation 
+
+**Thoughts:** 
+Brain drain 
+
+Link to work:
