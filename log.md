@@ -185,6 +185,6 @@ DAY 18: January 21, 2017
 Hackerrank Algorithms Implementation 
 
 **Thoughts:** 
-Brain drain 
+Algorithm brain drain - getting easier but also more challenging
 
 Link to work:
