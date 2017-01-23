@@ -188,3 +188,14 @@ Hackerrank Algorithms Implementation
 Algorithm brain drain - getting easier but also more challenging
 
 Link to work:
+
+DAY 20: January 22, 2017
+
+**Today's Progress:** 
+Working on Bear Cub for Daily CSS Images challenge
+
+**Thoughts:** 
+I'm overthinking it and really need to focus on breaking down the images into the shapes that compose the image.
+
+Link to work:
+http://codepen.io/mochatriathlete/pen/LxyaKR
