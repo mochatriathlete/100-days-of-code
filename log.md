@@ -189,7 +189,7 @@ Algorithm brain drain - getting easier but also more challenging
 
 Link to work:
 
-DAY 20: January 22, 2017
+DAY 19: January 22, 2017
 
 **Today's Progress:** 
 Working on Bear Cub for Daily CSS Images challenge
