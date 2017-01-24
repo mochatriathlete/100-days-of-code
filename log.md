@@ -199,3 +199,14 @@ I'm overthinking it and really need to focus on breaking down the images into th
 
 Link to work:
 http://codepen.io/mochatriathlete/pen/LxyaKR
+
+DAY 20: January 23, 2017
+
+**Today's Progress:** 
+Completed Daily CSS Images Challenge Day 1 Bear Cub - worked on Javascript course and twitchtv FCC
+
+**Thoughts:** 
+Great sense of accomplishment with CSS image - using that momentum to carry me to the next project - woohoo!!
+
+Link to work:
+http://codepen.io/mochatriathlete/pen/LxyaKR
