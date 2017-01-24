@@ -198,7 +198,7 @@ Working on Bear Cub for Daily CSS Images challenge
 I'm overthinking it and really need to focus on breaking down the images into the shapes that compose the image.
 
 Link to work:
-http://codepen.io/mochatriathlete/pen/LxyaKR
+http://codepen.io/mochatriathlete/pen/wgeyjK
 
 DAY 20: January 23, 2017
 
@@ -209,4 +209,4 @@ Completed Daily CSS Images Challenge Day 1 Bear Cub - worked on Javascript cours
 Great sense of accomplishment with CSS image - using that momentum to carry me to the next project - woohoo!!
 
 Link to work:
-http://codepen.io/mochatriathlete/pen/LxyaKR
+http://codepen.io/mochatriathlete/pen/wgeyjK
