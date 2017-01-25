@@ -210,3 +210,13 @@ Great sense of accomplishment with CSS image - using that momentum to carry me t
 
 Link to work:
 http://codepen.io/mochatriathlete/pen/wgeyjK
+
+DAY 21: January 24, 2017
+
+**Today's Progress:** 
+Finishing up Section 5 on JavaScript course and working on Javascript30 drum kit
+**Thoughts:** 
+Love studying and applying what I know
+
+Link to work:
+http://codepen.io/mochatriathlete/pen/wgeyjK
