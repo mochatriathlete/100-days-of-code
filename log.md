@@ -219,4 +219,4 @@ Finishing up Section 5 on JavaScript course and working on Javascript30 drum kit
 Love studying and applying what I know
 
 Link to work:
-http://codepen.io/mochatriathlete/pen/wgeyjK
+
