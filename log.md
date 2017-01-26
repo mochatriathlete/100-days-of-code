@@ -220,3 +220,11 @@ Love studying and applying what I know
 
 Link to work:
 
+DAY 22: January 25, 2017
+
+**Today's Progress:** 
+Tackled Codewars, Codecademy jQuery, and Udemy javascript objects
+**Thoughts:** 
+Hands on involvement seems to be working the best for me 
+
+Link to work:
