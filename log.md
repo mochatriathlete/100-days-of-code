@@ -234,7 +234,6 @@ DAY 23: January 26, 2017
 
 **Today's Progress:** 
 #JavaScript30 CSS JS Clock
-
 **Thoughts:**
 Enjoyed this project
 
