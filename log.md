@@ -245,4 +245,15 @@ Worked on Udemy course - Javascript the weird parts
 
 **Thoughts:**
 Spent most of the day working the course
+
+Link to work:
+
+DAY 24: January 28, 2017
+
+**Today's Progress:** 
+Determined to finish Javascript the weird parts
+
+**Thoughts:**
+Great course - awesome information
+
 Link to work:
