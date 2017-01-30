@@ -248,7 +248,7 @@ Spent most of the day working the course
 
 Link to work:
 
-DAY 24: January 28, 2017
+DAY 25: January 29, 2017
 
 **Today's Progress:** 
 Determined to finish Javascript the weird parts
