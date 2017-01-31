@@ -257,3 +257,13 @@ Determined to finish Javascript the weird parts
 Great course - awesome information
 
 Link to work:
+
+DAY 26: January 30, 2017
+
+**Today's Progress:** 
+Updating/revamping portfolio using new skills
+
+**Thoughts:**
+i can see the positive difference from when i fisrt began
+
+Link to work:
