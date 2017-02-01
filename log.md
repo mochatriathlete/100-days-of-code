@@ -267,3 +267,13 @@ Updating/revamping portfolio using new skills
 i can see the positive difference from when i fisrt began
 
 Link to work:
+
+DAY 27: January 31, 2017
+
+**Today's Progress:** 
+API work for FCC twitchtv
+
+**Thoughts:**
+Getting the hang of GET and POST
+
+Link to work:
