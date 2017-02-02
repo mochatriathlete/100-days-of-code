@@ -277,3 +277,13 @@ API work for FCC twitchtv
 Getting the hang of GET and POST
 
 Link to work:
+
+DAY 28: February 1, 2017
+
+**Today's Progress:** 
+Javascript Essentials Udemy
+
+**Thoughts:**
+Tired - pushing through
+
+Link to work:
