@@ -278,7 +278,7 @@ Getting the hang of GET and POST
 
 Link to work:
 
-DAY 28: February 1, 2017
+DAY 29: February 3, 2017
 
 **Today's Progress:** 
 Javascript Essentials Udemy
