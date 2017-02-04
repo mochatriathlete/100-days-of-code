@@ -287,3 +287,12 @@ Javascript Essentials Udemy
 Tired - pushing through
 
 Link to work:
+
+**Today's Progress:** 
+Javascript closures and FCC challenges and twitchtv
+
+**Thoughts:**
+The HTML is becoming easier.
+
+Link to work:
+https://codepen.io/mochatriathlete/pen/WRwOww
