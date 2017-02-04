@@ -278,7 +278,7 @@ Getting the hang of GET and POST
 
 Link to work:
 
-DAY 29: February 3, 2017
+DAY 28: February 1, 2017
 
 **Today's Progress:** 
 Javascript Essentials Udemy
@@ -288,11 +288,13 @@ Tired - pushing through
 
 Link to work:
 
+DAY 29: February 3, 2017
+
 **Today's Progress:** 
 Javascript closures and FCC challenges and twitchtv
 
 **Thoughts:**
-The HTML is becoming easier.
+The extra reading and tutorials outside of FCC really helps to tie it together when I come back to complete projects.
 
 Link to work:
 https://codepen.io/mochatriathlete/pen/WRwOww
