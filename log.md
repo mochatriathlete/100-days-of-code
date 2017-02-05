@@ -298,3 +298,13 @@ The extra reading and tutorials outside of FCC really helps to tie it together w
 
 Link to work:
 https://codepen.io/mochatriathlete/pen/WRwOww
+
+DAY 30: February 4, 2017
+
+**Today's Progress:** 
+Worked on creating twitterbot and udemy class
+
+**Thoughts:**
+Enjoying it 
+
+Link to work:
