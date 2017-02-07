@@ -308,3 +308,14 @@ Worked on creating twitterbot and udemy class
 Enjoying it 
 
 Link to work:
+
+DAY 31: February 6, 2017
+
+**Today's Progress:** 
+Worked on twitchtv Javascript and udemy class javascript essentials
+
+**Thoughts:**
+API getting easier
+
+Link to work:
+https://codepen.io/mochatriathlete/pen/WRwOww
