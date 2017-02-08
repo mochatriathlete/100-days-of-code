@@ -319,3 +319,13 @@ API getting easier
 
 Link to work:
 https://codepen.io/mochatriathlete/pen/WRwOww
+
+DAY 32: February 7, 2017
+
+**Today's Progress:** 
+Worked on JAVASCRIPT ESSENTIALS and YDKJS 
+
+**Thoughts:**
+Really enjoying reading and applying the knowledge
+
+Link to work:
