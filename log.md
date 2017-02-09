@@ -329,3 +329,13 @@ Worked on JAVASCRIPT ESSENTIALS and YDKJS
 Really enjoying reading and applying the knowledge
 
 Link to work:
+
+DAY 33: February 8, 2017
+
+**Today's Progress:** 
+Finishing up YDKJS series and working on FCC Sum of Primes challenge 
+
+**Thoughts:**
+I'm finding that I'm going less and less to my notes and putting together a workflow that 'works' for me.
+
+Link to work:
