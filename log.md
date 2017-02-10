@@ -339,3 +339,15 @@ Finishing up YDKJS series and working on FCC Sum of Primes challenge
 I'm finding that I'm going less and less to my notes and putting together a workflow that 'works' for me.
 
 Link to work:
+
+Day 34: February 9, 2017
+
+**Today's Progress:**
+Worked on new portfolio layout and read several javascript articles regarding v8 and javascript startup performance
+
+**Thoughts:**
+I feel like I'm getting the hang of things - I'm moving beyond mere memorization to being able to explain the 'why'...great feeling.
+
+Link to work:
+https://lavon.tech
+
