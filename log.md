@@ -351,7 +351,7 @@ I feel like I'm getting the hang of things - I'm moving beyond mere memorization
 Link to work:
 https://lavon.tech
 
-Day 34: February 9, 2017
+Day 35: February 11, 2017
 
 **Today's Progress:**
 Installed wordpress for portfolio and working on child them for my site
