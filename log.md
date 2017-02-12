@@ -351,3 +351,13 @@ I feel like I'm getting the hang of things - I'm moving beyond mere memorization
 Link to work:
 https://lavon.tech
 
+Day 34: February 9, 2017
+
+**Today's Progress:**
+Installed wordpress for portfolio and working on child them for my site
+
+**Thoughts:**
+Figured out what was buggy with my wp-config.php file - felt really good to solve it on the first try
+
+Link to work:
+https://lavon.tech
