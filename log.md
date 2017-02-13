@@ -361,3 +361,13 @@ Figured out what was buggy with my wp-config.php file - felt really good to solv
 
 Link to work:
 https://lavon.tech
+
+Day 36: February 12, 2017
+
+**Today's Progress:**
+Updated portfolio - fought with the server - i won
+
+**Thoughts:**
+Frustrated with server but problem-solved 
+
+https://lavon.tech
