@@ -371,3 +371,13 @@ Updated portfolio - fought with the server - i won
 Frustrated with server but problem-solved 
 
 https://lavon.tech
+
+Day 37: February 13, 2017
+
+**Today's Progress:**
+More work on portfolio also Udemy course Javascript - the weird parts
+
+**Thoughts:**
+I've been making a lot of careless errors in my code - frustrating
+
+https://lavon.tech
