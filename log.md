@@ -370,6 +370,7 @@ Updated portfolio - fought with the server - i won
 **Thoughts:**
 Frustrated with server but problem-solved 
 
+Link to work:
 https://lavon.tech
 
 Day 37: February 13, 2017
@@ -380,4 +381,15 @@ More work on portfolio also Udemy course Javascript - the weird parts
 **Thoughts:**
 I've been making a lot of careless errors in my code - frustrating
 
+Link to work:
 https://lavon.tech
+
+Day 38: February 14, 2017
+
+**Today's Progress:**
+Working on landing page for javascript project
+
+**Thoughts:**
+I need to draw out my layout by hand before coding.
+
+Link to work:
