@@ -393,3 +393,13 @@ Working on landing page for javascript project
 I need to draw out my layout by hand before coding.
 
 Link to work:
+
+Day 39: February 15, 2017
+
+**Today's Progress:**
+Fighting with an API 
+
+**Thoughts:**
+APIs and I are having a hard time being friends. More review - more hands-on 
+
+Link to work:
