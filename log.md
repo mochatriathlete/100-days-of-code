@@ -403,3 +403,13 @@ Fighting with an API
 APIs and I are having a hard time being friends. More review - more hands-on 
 
 Link to work:
+
+Day 40: February 16, 2017
+
+**Today's Progress:**
+Javascript 30 
+
+**Thoughts:**
+Getting more and more comfortable with vanillajs  
+
+Link to work:
