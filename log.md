@@ -413,3 +413,24 @@ Javascript 30
 Getting more and more comfortable with vanillajs  
 
 Link to work:
+
+Day 41: February 17, 2017
+
+**Today's Progress:**
+twitchtv api
+
+**Thoughts:**
+Trying to move beyond creating a basic UI to something a little more exciting but it's frustrating at times 
+
+Link to work:
+https://codepen.io/mochatriathlete/pen/WRwOww
+
+Day 42: February 18, 2017
+
+**Today's Progress:**
+Working on FCC challenges and codewars
+
+**Thoughts:**
+I'm finding that I need to work more on my algorithms got the basic ones down but I want to move beyond those
+
+Link to work:
