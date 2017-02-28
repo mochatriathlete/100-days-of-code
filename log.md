@@ -434,3 +434,22 @@ Working on FCC challenges and codewars
 I'm finding that I need to work more on my algorithms got the basic ones down but I want to move beyond those
 
 Link to work:
+
+Day 43: February 19, 2017
+
+**Today's Progress:**
+Codewars and algorithms
+**Thoughts:**
+Think I'm coming down something - writing it down and will type later
+Link to work:
+
+Day 44: February 21, 2017
+
+**Today's Progress:**
+JavaScript 30
+
+**Thoughts:**
+Sick with the flu hard to concentrate on coding
+
+Link to work:
+
